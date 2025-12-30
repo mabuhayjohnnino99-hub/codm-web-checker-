@@ -1,8 +1,9 @@
 {
     "functions": {
         "api/check-account.js": {
-            "runtime": "nodejs24.x"
+            "runtime": "nodejs@24.x" // Correct format: "runtime-name@version"
         }
     }
 }
+
 
