@@ -6,9 +6,10 @@
         "https-proxy-agent": "^5.0.1"
     },
     "engines": {
-        "node": "24.x" // Updated from 18.x to 24.x
+        "node": "24.x"
     }
 }
+
 
 
 
