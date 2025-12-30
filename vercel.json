@@ -1,8 +1,8 @@
 {
     "functions": {
         "api/check-account.js": {
-            "runtime": "nodejs24.x" // Updated from nodejs18.x
+            "runtime": "nodejs24.x"
         }
-    },
-    "buildCommand": "echo 'No build needed'"
+    }
 }
+
